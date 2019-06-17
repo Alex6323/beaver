@@ -1,0 +1,13 @@
+[workspace]
+members = [
+	"beaver-trinary",
+	"beaver-tangle",
+	"beaver-core",
+	"beaver-main",
+	"beaver-config",
+	"beaver-p2p",
+	"beaver-ixi",
+	"beaver-proto",
+	"beaver-compress",
+	"beaver-troika",
+]
